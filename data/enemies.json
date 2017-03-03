@@ -1,0 +1,7 @@
+{
+  "car":{"sx":0,"sy":0,"cols":1,"tilew":96,"tileh":96,"frames":3,"rows":3,"spacingY":0},
+  "wheel":{"sx":96,"sy":0,"cols":1,"tilew":96,"tileh":96,"frames":3,"rows":3,"spacingY":0},
+  "spike":{"sx":192,"sy":0,"cols":1,"tilew":96,"tileh":96,"frames":3,"rows":3,"spacingY":0},
+  "board":{"sx":288,"sy":0,"cols":1,"tilew":96,"tileh":96,"frames":3,"rows":3,"spacingY":0},
+  "fly":{"sx":384,"sy":0,"cols":1,"tilew":96,"tileh":96,"frames":3,"rows":3,"spacingY":0}
+}
