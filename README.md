@@ -1,5 +1,8 @@
 # the-learning-island-2D
-2D platformer open source code with Quintus engine and physics code for an educational game 
+2D platformer open source code with Quintus engine and physics code for an educational game.
+
+DEMO: http://ghobrialm.byethost12.com
+Loads ONLY IN CHROME OR FIREFOX, MUST wait 60 seconds, and MUST refresh browser if loading for the first time.
 
 The source code is provided for anyone who wishes to develop a 2D platformer game using the Quintus engine and is free to use and abuse provided you indicated somewhere that the original content is from The Learning Island 2D template (accreditations).
 
